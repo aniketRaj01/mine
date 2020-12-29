@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "193c360e97e9e59615a554ea331c40dc",
+    "revision": "ff6fdbb05ccf7d22ec0c9f0773767e7f",
     "url": "/mine/index.html"
   },
   {
-    "revision": "8d934787d88940cfb85f",
+    "revision": "db958ca7df581d9615b9",
     "url": "/mine/static/css/2.363f5bca.chunk.css"
   },
   {
-    "revision": "b43258c68894275ecf9b",
-    "url": "/mine/static/css/main.1232716f.chunk.css"
+    "revision": "52942be517c23a7eb99e",
+    "url": "/mine/static/css/main.4d448115.chunk.css"
   },
   {
-    "revision": "8d934787d88940cfb85f",
-    "url": "/mine/static/js/2.2009b115.chunk.js"
+    "revision": "db958ca7df581d9615b9",
+    "url": "/mine/static/js/2.3cbd1045.chunk.js"
   },
   {
     "revision": "907a749a319772c60fb75dc74809d42c",
-    "url": "/mine/static/js/2.2009b115.chunk.js.LICENSE.txt"
+    "url": "/mine/static/js/2.3cbd1045.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b43258c68894275ecf9b",
-    "url": "/mine/static/js/main.944851da.chunk.js"
+    "revision": "52942be517c23a7eb99e",
+    "url": "/mine/static/js/main.902da258.chunk.js"
   },
   {
     "revision": "bd466e562ac1a1266fe3",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3076a98b755f50deef663e5ff23e5100",
     "url": "/mine/static/media/index1.3076a98b.jpg"
+  },
+  {
+    "revision": "7ad98eda8af99f179281db1581cc9ffd",
+    "url": "/mine/static/media/index10.7ad98eda.png"
   },
   {
     "revision": "89531a85cb803c432faa3c827dc46e54",
@@ -62,6 +66,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6a885f4f5fb6da7b0a0e9055f2fec691",
     "url": "/mine/static/media/index7.6a885f4f.png"
+  },
+  {
+    "revision": "54296da256699d394ac0caf21b069cea",
+    "url": "/mine/static/media/index8.54296da2.png"
+  },
+  {
+    "revision": "ddd2b641d8c3fe55b5948f1a3d334577",
+    "url": "/mine/static/media/index9.ddd2b641.png"
   },
   {
     "revision": "c9b4beaef16e10a36e6978a3faf8b9f9",
