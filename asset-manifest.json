@@ -1,32 +1,35 @@
 {
   "files": {
-    "main.css": "/mine/static/css/main.29608b87.chunk.css",
-    "main.js": "/mine/static/js/main.d8a5ee09.chunk.js",
-    "main.js.map": "/mine/static/js/main.d8a5ee09.chunk.js.map",
+    "main.css": "/mine/static/css/main.78f02d10.chunk.css",
+    "main.js": "/mine/static/js/main.86ac9ea2.chunk.js",
+    "main.js.map": "/mine/static/js/main.86ac9ea2.chunk.js.map",
     "runtime-main.js": "/mine/static/js/runtime-main.975ab53c.js",
     "runtime-main.js.map": "/mine/static/js/runtime-main.975ab53c.js.map",
     "static/css/2.363f5bca.chunk.css": "/mine/static/css/2.363f5bca.chunk.css",
-    "static/js/2.e8460174.chunk.js": "/mine/static/js/2.e8460174.chunk.js",
-    "static/js/2.e8460174.chunk.js.map": "/mine/static/js/2.e8460174.chunk.js.map",
+    "static/js/2.2009b115.chunk.js": "/mine/static/js/2.2009b115.chunk.js",
+    "static/js/2.2009b115.chunk.js.map": "/mine/static/js/2.2009b115.chunk.js.map",
     "index.html": "/mine/index.html",
-    "precache-manifest.5f18f25e75f58d3356efa8b5fc1115da.js": "/mine/precache-manifest.5f18f25e75f58d3356efa8b5fc1115da.js",
+    "precache-manifest.d59f36f96961f95e9c948aeaaf32175b.js": "/mine/precache-manifest.d59f36f96961f95e9c948aeaaf32175b.js",
     "service-worker.js": "/mine/service-worker.js",
     "static/css/2.363f5bca.chunk.css.map": "/mine/static/css/2.363f5bca.chunk.css.map",
-    "static/css/main.29608b87.chunk.css.map": "/mine/static/css/main.29608b87.chunk.css.map",
-    "static/js/2.e8460174.chunk.js.LICENSE.txt": "/mine/static/js/2.e8460174.chunk.js.LICENSE.txt",
+    "static/css/main.78f02d10.chunk.css.map": "/mine/static/css/main.78f02d10.chunk.css.map",
+    "static/js/2.2009b115.chunk.js.LICENSE.txt": "/mine/static/js/2.2009b115.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/mine/static/media/dp.5d2f8bfc.jpg",
     "static/media/index.jpg": "/mine/static/media/index.4ed7903d.jpg",
     "static/media/index1.jpg": "/mine/static/media/index1.3076a98b.jpg",
     "static/media/index2.jpg": "/mine/static/media/index2.89531a85.jpg",
     "static/media/index3.jpg": "/mine/static/media/index3.815f17e1.jpg",
     "static/media/index4.jpg": "/mine/static/media/index4.e2ee417a.jpg",
+    "static/media/index5.jpg": "/mine/static/media/index5.46f7a664.jpg",
+    "static/media/index6.png": "/mine/static/media/index6.adc559d5.png",
+    "static/media/index7.png": "/mine/static/media/index7.6a885f4f.png",
     "static/media/logo-white.png": "/mine/static/media/logo-white.c9b4beae.png"
   },
   "entrypoints": [
     "static/js/runtime-main.975ab53c.js",
     "static/css/2.363f5bca.chunk.css",
-    "static/js/2.e8460174.chunk.js",
-    "static/css/main.29608b87.chunk.css",
-    "static/js/main.d8a5ee09.chunk.js"
+    "static/js/2.2009b115.chunk.js",
+    "static/css/main.78f02d10.chunk.css",
+    "static/js/main.86ac9ea2.chunk.js"
   ]
 }
