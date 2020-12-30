@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/mine/static/css/main.ba1d98e1.chunk.css",
-    "main.js": "/mine/static/js/main.6b7cb7b0.chunk.js",
-    "main.js.map": "/mine/static/js/main.6b7cb7b0.chunk.js.map",
+    "main.js": "/mine/static/js/main.550d2b2c.chunk.js",
+    "main.js.map": "/mine/static/js/main.550d2b2c.chunk.js.map",
     "runtime-main.js": "/mine/static/js/runtime-main.975ab53c.js",
     "runtime-main.js.map": "/mine/static/js/runtime-main.975ab53c.js.map",
     "static/css/2.363f5bca.chunk.css": "/mine/static/css/2.363f5bca.chunk.css",
-    "static/js/2.f732c1d4.chunk.js": "/mine/static/js/2.f732c1d4.chunk.js",
-    "static/js/2.f732c1d4.chunk.js.map": "/mine/static/js/2.f732c1d4.chunk.js.map",
+    "static/js/2.a6221c5c.chunk.js": "/mine/static/js/2.a6221c5c.chunk.js",
+    "static/js/2.a6221c5c.chunk.js.map": "/mine/static/js/2.a6221c5c.chunk.js.map",
     "index.html": "/mine/index.html",
-    "precache-manifest.6ad283a6a670b6ea620b6accf165bf2e.js": "/mine/precache-manifest.6ad283a6a670b6ea620b6accf165bf2e.js",
+    "precache-manifest.ddc344a428b85a1cabbe4d5ea565baea.js": "/mine/precache-manifest.ddc344a428b85a1cabbe4d5ea565baea.js",
     "service-worker.js": "/mine/service-worker.js",
     "static/css/2.363f5bca.chunk.css.map": "/mine/static/css/2.363f5bca.chunk.css.map",
     "static/css/main.ba1d98e1.chunk.css.map": "/mine/static/css/main.ba1d98e1.chunk.css.map",
-    "static/js/2.f732c1d4.chunk.js.LICENSE.txt": "/mine/static/js/2.f732c1d4.chunk.js.LICENSE.txt",
+    "static/js/2.a6221c5c.chunk.js.LICENSE.txt": "/mine/static/js/2.a6221c5c.chunk.js.LICENSE.txt",
+    "static/media/Aniket's_Resume.pdf": "/mine/static/media/Aniket's_Resume.65f32365.pdf",
     "static/media/color.mp4": "/mine/static/media/color.9a7840bf.mp4",
     "static/media/styles.css": "/mine/static/media/dp.5d2f8bfc.jpg",
     "static/media/flap.mp4": "/mine/static/media/flap.25320ccb.mp4",
@@ -31,14 +32,14 @@
     "static/media/logo-white.png": "/mine/static/media/logo-white.c9b4beae.png",
     "static/media/news.mp4": "/mine/static/media/news.0ecc5ff6.mp4",
     "static/media/pp.mp4": "/mine/static/media/pp.8ed5da7b.mp4",
-    "static/media/taptap.mp4": "/mine/static/media/taptap.6e73ce63.mp4",
+    "static/media/taptap.mp4": "/mine/static/media/taptap.37671cb8.mp4",
     "static/media/tictac.mp4": "/mine/static/media/tictac.b4028d67.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.975ab53c.js",
     "static/css/2.363f5bca.chunk.css",
-    "static/js/2.f732c1d4.chunk.js",
+    "static/js/2.a6221c5c.chunk.js",
     "static/css/main.ba1d98e1.chunk.css",
-    "static/js/main.6b7cb7b0.chunk.js"
+    "static/js/main.550d2b2c.chunk.js"
   ]
 }
